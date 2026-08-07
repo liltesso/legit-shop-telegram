@@ -2,46 +2,279 @@
   "category": "telegram",
   "currency": "$",
   "groups": [
-    { "key": "regular", "label": { "uk": "Прості акаунти", "ru": "Обычные аккаунты", "en": "Regular accounts" } },
-    { "key": "aged", "label": { "uk": "Акаунти з відлежкою", "ru": "Аккаунты с отлежкой", "en": "Aged accounts" } }
+    {
+      "key": "regular",
+      "label": {
+        "uk": "Прості акаунти",
+        "ru": "Обычные аккаунты",
+        "en": "Regular accounts"
+      }
+    },
+    {
+      "key": "aged",
+      "label": {
+        "uk": "Акаунти з відлежкою",
+        "ru": "Аккаунты с отлежкой",
+        "en": "Aged accounts"
+      }
+    }
   ],
   "items": [
+    {
+      "id": "tg_new_us",
+      "group": "regular",
+      "emoji": "📱",
+      "flag": "🇺🇸",
+      "name": {
+        "uk": "Акаунт — США",
+        "ru": "Аккаунт — США",
+        "en": "Account — USA"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 9,
+      "lzt": {
+        "category": "telegram",
+        "country": "US",
+        "max_price_rub": 9,
+        "price_uah": 9
+      }
+    },
     {
       "id": "tg_new_ua",
       "group": "regular",
       "emoji": "📱",
       "flag": "🇺🇦",
-      "name": { "uk": "Акаунт з UA-номером", "ru": "Аккаунт с UA-номером", "en": "Account with UA number" },
-      "desc": { "uk": "Реєстрація сьогодні, чистий, без спам-блоку", "ru": "Регистрация сегодня, чистый, без спам-блока", "en": "Registered today, clean, no spam-block" },
-      "price": 1.58
+      "name": {
+        "uk": "Акаунт — Україна",
+        "ru": "Аккаунт — Украина",
+        "en": "Account — Ukraine"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 41,
+      "lzt": {
+        "category": "telegram",
+        "country": "UA",
+        "max_price_rub": 41,
+        "price_uah": 41
+      }
     },
     {
-      "id": "tg_new_intl",
+      "id": "tg_new_ca",
       "group": "regular",
       "emoji": "📱",
-      "flag": "🌍",
-      "name": { "uk": "Акаунт з міжнародним номером", "ru": "Аккаунт с международным номером", "en": "Account with international number" },
-      "desc": { "uk": "Реєстрація сьогодні, будь-яка країна на вибір", "ru": "Регистрация сегодня, любая страна на выбор", "en": "Registered today, any country available" },
-      "price": 2.10
+      "flag": "🇨🇦",
+      "name": {
+        "uk": "Акаунт — Канада",
+        "ru": "Аккаунт — Канада",
+        "en": "Account — Canada"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 9,
+      "lzt": {
+        "category": "telegram",
+        "country": "CA",
+        "max_price_rub": 9,
+        "price_uah": 9
+      }
     },
     {
-      "id": "tg_new_bulk10",
+      "id": "tg_new_in",
       "group": "regular",
-      "emoji": "📦",
-      "flag": "🌍",
-      "name": { "uk": "Пакет — 10 нових акаунтів", "ru": "Пакет — 10 новых аккаунтов", "en": "Bundle — 10 new accounts" },
-      "desc": { "uk": "Змішані номери, знижка за обсяг", "ru": "Смешанные номера, скидка за объём", "en": "Mixed numbers, bulk discount" },
-      "price": 14.70
+      "emoji": "📱",
+      "flag": "🇮🇳",
+      "name": {
+        "uk": "Акаунт — Індія",
+        "ru": "Аккаунт — Индия",
+        "en": "Account — India"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 8,
+      "lzt": {
+        "category": "telegram",
+        "country": "IN",
+        "max_price_rub": 8,
+        "price_uah": 8
+      }
+    },
+    {
+      "id": "tg_new_id",
+      "group": "regular",
+      "emoji": "📱",
+      "flag": "🇮🇩",
+      "name": {
+        "uk": "Акаунт — Індонезія",
+        "ru": "Аккаунт — Индонезия",
+        "en": "Account — Indonesia"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 11,
+      "lzt": {
+        "category": "telegram",
+        "country": "ID",
+        "max_price_rub": 11,
+        "price_uah": 11
+      }
+    },
+    {
+      "id": "tg_new_vn",
+      "group": "regular",
+      "emoji": "📱",
+      "flag": "🇻🇳",
+      "name": {
+        "uk": "Акаунт — В'єтнам",
+        "ru": "Аккаунт — Вьетнам",
+        "en": "Account — Vietnam"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 12,
+      "lzt": {
+        "category": "telegram",
+        "country": "VN",
+        "max_price_rub": 12,
+        "price_uah": 12
+      }
+    },
+    {
+      "id": "tg_new_uz",
+      "group": "regular",
+      "emoji": "📱",
+      "flag": "🇺🇿",
+      "name": {
+        "uk": "Акаунт — Узбекистан",
+        "ru": "Аккаунт — Узбекистан",
+        "en": "Account — Uzbekistan"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 39,
+      "lzt": {
+        "category": "telegram",
+        "country": "UZ",
+        "max_price_rub": 39,
+        "price_uah": 39
+      }
+    },
+    {
+      "id": "tg_new_gb",
+      "group": "regular",
+      "emoji": "📱",
+      "flag": "🇬🇧",
+      "name": {
+        "uk": "Акаунт — Великобританія",
+        "ru": "Аккаунт — Великобритания",
+        "en": "Account — United Kingdom"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 19,
+      "lzt": {
+        "category": "telegram",
+        "country": "GB",
+        "max_price_rub": 19,
+        "price_uah": 19
+      }
+    },
+    {
+      "id": "tg_new_pl",
+      "group": "regular",
+      "emoji": "📱",
+      "flag": "🇵🇱",
+      "name": {
+        "uk": "Акаунт — Польща",
+        "ru": "Аккаунт — Польша",
+        "en": "Account — Poland"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 50,
+      "lzt": {
+        "category": "telegram",
+        "country": "PL",
+        "max_price_rub": 50,
+        "price_uah": 50
+      }
+    },
+    {
+      "id": "tg_new_de",
+      "group": "regular",
+      "emoji": "📱",
+      "flag": "🇩🇪",
+      "name": {
+        "uk": "Акаунт — Німеччина",
+        "ru": "Аккаунт — Германия",
+        "en": "Account — Germany"
+      },
+      "desc": {
+        "uk": "Автопідбір з наявних лотів, миттєва видача",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
+        "en": "Auto-picked from live listings, instant delivery"
+      },
+      "price": 72,
+      "lzt": {
+        "category": "telegram",
+        "country": "DE",
+        "max_price_rub": 72,
+        "price_uah": 72
+      }
     },
     {
       "id": "tg_aged_30",
       "group": "aged",
       "emoji": "🕰️",
       "flag": "🇺🇦",
-      "badgeRank": { "uk": "Довіра: Низька", "ru": "Доверие: Низкое", "en": "Trust: Low" },
-      "badgeYear": { "uk": "Відлежка: 30 дн.", "ru": "Отлежка: 30 дн.", "en": "Aged: 30 days" },
-      "name": { "uk": "Акаунт з відлежкою 30 днів", "ru": "Аккаунт с отлежкой 30 дней", "en": "Account aged 30 days" },
-      "desc": { "uk": "Знижений ризик бану, є історія активності", "ru": "Сниженный риск бана, есть история активности", "en": "Lower ban risk, has activity history" },
+      "badgeRank": {
+        "uk": "Довіра: Низька",
+        "ru": "Доверие: Низкое",
+        "en": "Trust: Low"
+      },
+      "badgeYear": {
+        "uk": "Відлежка: 30 дн.",
+        "ru": "Отлежка: 30 дн.",
+        "en": "Aged: 30 days"
+      },
+      "name": {
+        "uk": "Акаунт з відлежкою 30 днів",
+        "ru": "Аккаунт с отлежкой 30 дней",
+        "en": "Account aged 30 days"
+      },
+      "desc": {
+        "uk": "Знижений ризик бану, є історія активності",
+        "ru": "Сниженный риск бана, есть история активности",
+        "en": "Lower ban risk, has activity history"
+      },
       "price": 3.68
     },
     {
@@ -49,10 +282,26 @@
       "group": "aged",
       "emoji": "🕰️",
       "flag": "🇺🇦",
-      "badgeRank": { "uk": "Довіра: Середня", "ru": "Доверие: Среднее", "en": "Trust: Medium" },
-      "badgeYear": { "uk": "Відлежка: 90 дн.", "ru": "Отлежка: 90 дн.", "en": "Aged: 90 days" },
-      "name": { "uk": "Акаунт з відлежкою 90 днів", "ru": "Аккаунт с отлежкой 90 дней", "en": "Account aged 90 days" },
-      "desc": { "uk": "Стабільний, підходить під масові розсилки", "ru": "Стабильный, подходит под массовые рассылки", "en": "Stable, suitable for bulk outreach" },
+      "badgeRank": {
+        "uk": "Довіра: Середня",
+        "ru": "Доверие: Среднее",
+        "en": "Trust: Medium"
+      },
+      "badgeYear": {
+        "uk": "Відлежка: 90 дн.",
+        "ru": "Отлежка: 90 дн.",
+        "en": "Aged: 90 days"
+      },
+      "name": {
+        "uk": "Акаунт з відлежкою 90 днів",
+        "ru": "Аккаунт с отлежкой 90 дней",
+        "en": "Account aged 90 days"
+      },
+      "desc": {
+        "uk": "Стабільний, підходить під масові розсилки",
+        "ru": "Стабильный, подходит под массовые рассылки",
+        "en": "Stable, suitable for bulk outreach"
+      },
       "price": 5.78
     },
     {
@@ -60,10 +309,26 @@
       "group": "aged",
       "emoji": "💎",
       "flag": "🇬🇧",
-      "badgeRank": { "uk": "Довіра: Висока", "ru": "Доверие: Высокое", "en": "Trust: High" },
-      "badgeYear": { "uk": "Створено: 2021", "ru": "Создан: 2021", "en": "Created: 2021" },
-      "name": { "uk": "Акаунт з відлежкою 180 днів", "ru": "Аккаунт с отлежкой 180 дней", "en": "Account aged 180 days" },
-      "desc": { "uk": "Максимальна довіра, є ім'я, фото, юзернейм", "ru": "Максимальное доверие, есть имя, фото, юзернейм", "en": "Highest trust, has name, photo, username" },
+      "badgeRank": {
+        "uk": "Довіра: Висока",
+        "ru": "Доверие: Высокое",
+        "en": "Trust: High"
+      },
+      "badgeYear": {
+        "uk": "Створено: 2021",
+        "ru": "Создан: 2021",
+        "en": "Created: 2021"
+      },
+      "name": {
+        "uk": "Акаунт з відлежкою 180 днів",
+        "ru": "Аккаунт с отлежкой 180 дней",
+        "en": "Account aged 180 days"
+      },
+      "desc": {
+        "uk": "Максимальна довіра, є ім'я, фото, юзернейм",
+        "ru": "Максимальное доверие, есть имя, фото, юзернейм",
+        "en": "Highest trust, has name, photo, username"
+      },
       "price": 9.45
     },
     {
@@ -71,10 +336,26 @@
       "group": "aged",
       "emoji": "📦",
       "flag": "🇺🇦",
-      "badgeRank": { "uk": "Довіра: Середня", "ru": "Доверие: Среднее", "en": "Trust: Medium" },
-      "badgeYear": { "uk": "Відлежка: 90 дн.", "ru": "Отлежка: 90 дн.", "en": "Aged: 90 days" },
-      "name": { "uk": "Пакет — 5 акаунтів з відлежкою 90 днів", "ru": "Пакет — 5 аккаунтов с отлежкой 90 дней", "en": "Bundle — 5 accounts aged 90 days" },
-      "desc": { "uk": "Знижка за обсяг, різні країни", "ru": "Скидка за объём, разные страны", "en": "Bulk discount, mixed countries" },
+      "badgeRank": {
+        "uk": "Довіра: Середня",
+        "ru": "Доверие: Среднее",
+        "en": "Trust: Medium"
+      },
+      "badgeYear": {
+        "uk": "Відлежка: 90 дн.",
+        "ru": "Отлежка: 90 дн.",
+        "en": "Aged: 90 days"
+      },
+      "name": {
+        "uk": "Пакет — 5 акаунтів з відлежкою 90 днів",
+        "ru": "Пакет — 5 аккаунтов с отлежкой 90 дней",
+        "en": "Bundle — 5 accounts aged 90 days"
+      },
+      "desc": {
+        "uk": "Знижка за обсяг, різні країни",
+        "ru": "Скидка за объём, разные страны",
+        "en": "Bulk discount, mixed countries"
+      },
       "price": 26.25
     }
   ]
