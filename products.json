@@ -1,6 +1,6 @@
 {
   "category": "telegram",
-  "currency": "₴",
+  "currency": "$",
   "groups": [
     {
       "key": "regular",
@@ -27,7 +27,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 51,
+      "price": 1.23,
       "lzt": {
         "category": "telegram",
         "country": "US",
@@ -50,7 +50,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 83,
+      "price": 2.0,
       "lzt": {
         "category": "telegram",
         "country": "UA",
@@ -73,7 +73,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 51,
+      "price": 1.23,
       "lzt": {
         "category": "telegram",
         "country": "CA",
@@ -96,7 +96,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 50,
+      "price": 1.2,
       "lzt": {
         "category": "telegram",
         "country": "IN",
@@ -119,7 +119,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 53,
+      "price": 1.28,
       "lzt": {
         "category": "telegram",
         "country": "ID",
@@ -142,7 +142,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 54,
+      "price": 1.3,
       "lzt": {
         "category": "telegram",
         "country": "VN",
@@ -165,7 +165,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 81,
+      "price": 1.95,
       "lzt": {
         "category": "telegram",
         "country": "UZ",
@@ -188,7 +188,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 61,
+      "price": 1.47,
       "lzt": {
         "category": "telegram",
         "country": "GB",
@@ -211,7 +211,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 92,
+      "price": 2.22,
       "lzt": {
         "category": "telegram",
         "country": "PL",
@@ -234,7 +234,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 114,
+      "price": 2.75,
       "lzt": {
         "category": "telegram",
         "country": "DE",
