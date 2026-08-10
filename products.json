@@ -27,12 +27,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 1.93,
+      "price": 1.88,
       "lzt": {
         "category": "telegram",
         "country": "US",
-        "max_price_rub": 31,
-        "price_uah": 80
+        "max_price_rub": 28,
+        "price_uah": 78
       }
     },
     {
@@ -50,12 +50,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 4.29,
+      "price": 4.87,
       "lzt": {
         "category": "telegram",
         "country": "UA",
-        "max_price_rub": 188,
-        "price_uah": 178
+        "max_price_rub": 227,
+        "price_uah": 202
       }
     },
     {
@@ -73,12 +73,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 1.93,
+      "price": 1.83,
       "lzt": {
         "category": "telegram",
         "country": "CA",
-        "max_price_rub": 31,
-        "price_uah": 80
+        "max_price_rub": 25,
+        "price_uah": 76
       }
     },
     {
@@ -100,7 +100,7 @@
       "lzt": {
         "category": "telegram",
         "country": "IN",
-        "max_price_rub": 15,
+        "max_price_rub": 16,
         "price_uah": 70
       }
     },
@@ -123,7 +123,7 @@
       "lzt": {
         "category": "telegram",
         "country": "ID",
-        "max_price_rub": 16,
+        "max_price_rub": 17,
         "price_uah": 71
       }
     },
@@ -142,12 +142,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 1.83,
+      "price": 1.88,
       "lzt": {
         "category": "telegram",
         "country": "VN",
-        "max_price_rub": 25,
-        "price_uah": 76
+        "max_price_rub": 28,
+        "price_uah": 78
       }
     },
     {
@@ -165,12 +165,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 2.31,
+      "price": 2.46,
       "lzt": {
         "category": "telegram",
         "country": "UZ",
-        "max_price_rub": 57,
-        "price_uah": 96
+        "max_price_rub": 66,
+        "price_uah": 102
       }
     },
     {
@@ -188,12 +188,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 1.93,
+      "price": 2.02,
       "lzt": {
         "category": "telegram",
         "country": "GB",
-        "max_price_rub": 30,
-        "price_uah": 80
+        "max_price_rub": 38,
+        "price_uah": 84
       }
     },
     {
@@ -211,12 +211,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 2.84,
+      "price": 3.11,
       "lzt": {
         "category": "telegram",
         "country": "PL",
-        "max_price_rub": 92,
-        "price_uah": 118
+        "max_price_rub": 110,
+        "price_uah": 129
       }
     },
     {
@@ -234,12 +234,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача",
         "en": "Auto-picked from live listings, instant delivery"
       },
-      "price": 2.41,
+      "price": 3.2,
       "lzt": {
         "category": "telegram",
         "country": "DE",
-        "max_price_rub": 63,
-        "price_uah": 100
+        "max_price_rub": 116,
+        "price_uah": 133
       }
     }
   ]
